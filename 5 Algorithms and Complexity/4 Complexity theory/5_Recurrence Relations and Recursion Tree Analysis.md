@@ -1,4 +1,4 @@
-# Recurrence Relations and Recursion Tree Analysis - Beginner Friendly Notes
+# Recurrence Relations and Recursion Tree Analysis
 
 These notes explain recurrence relations and common methods for
 analyzing recursive algorithms using simple language, diagrams,

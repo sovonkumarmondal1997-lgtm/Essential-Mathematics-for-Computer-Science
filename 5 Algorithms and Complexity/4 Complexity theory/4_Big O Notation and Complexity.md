@@ -1,4 +1,4 @@
-# Big O Notation and Complexity - Beginner Friendly Notes
+# Big O Notation and Complexity
 
 ## 1. Big O Notation
 

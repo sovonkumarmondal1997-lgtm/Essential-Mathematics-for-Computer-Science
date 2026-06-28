@@ -1,4 +1,4 @@
-# Asymptotic Analysis - Beginner Friendly Notes
+# Asymptotic Analysis
 
 These notes explain asymptotic behavior and algorithm growth using
 simple language, real-world analogies, and step-by-step examples.

@@ -1,4 +1,4 @@
-# Bubble Sort and Binary Search Complexity - Beginner Friendly Notes
+# Bubble Sort and Binary Search Complexity
 
 These notes explain the best, average, and worst-case performance of
 Bubble Sort and Binary Search using simple language, analogies, and

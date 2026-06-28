@@ -1,4 +1,4 @@
-# Master Theorem - Beginner Friendly Notes
+# Master Theorem
 
 These notes explain the Master Theorem and related divide-and-conquer
 concepts using simple language, analogies, and examples.

@@ -1,4 +1,4 @@
-# Quicksort Complexity - Beginner Friendly Notes
+# Quicksort Complexity
 
 These notes explain the best, average, and worst-case performance of
 Quicksort and how its best-case complexity is proven using recurrence

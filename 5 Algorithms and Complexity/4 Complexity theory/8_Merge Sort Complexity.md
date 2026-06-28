@@ -1,4 +1,4 @@
-# Merge Sort Complexity - Beginner Friendly Notes
+# Merge Sort Complexity
 
 These notes explain why Merge Sort has the same time complexity in every
 case and how its recurrence is analyzed using the Master Theorem.

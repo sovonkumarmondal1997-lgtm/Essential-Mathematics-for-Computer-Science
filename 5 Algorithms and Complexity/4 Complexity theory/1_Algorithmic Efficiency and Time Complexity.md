@@ -1,4 +1,4 @@
-# Algorithmic Efficiency and Time Complexity - Beginner Friendly Notes
+# Algorithmic Efficiency and Time Complexity
 
 These notes explain algorithm efficiency and complexity using simple
 language, analogies, and examples.
