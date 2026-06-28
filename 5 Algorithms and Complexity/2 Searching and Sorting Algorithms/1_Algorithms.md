@@ -1,4 +1,4 @@
-# Algorithms - Beginner Friendly Notes
+# Algorithms
 
 These notes explain the fundamental concepts of algorithms in simple
 language with real-world analogies, step-by-step examples, and revision

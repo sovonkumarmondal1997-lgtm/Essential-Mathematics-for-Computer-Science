@@ -1,4 +1,4 @@
-# Binary Search - Beginner Friendly Notes
+# Binary Search
 
 These notes explain Binary Search and its core concepts using simple
 language, practical analogies, and step-by-step examples.

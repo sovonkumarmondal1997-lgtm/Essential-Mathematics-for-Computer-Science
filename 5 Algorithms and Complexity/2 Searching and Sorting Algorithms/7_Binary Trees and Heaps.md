@@ -1,4 +1,4 @@
-# Binary Trees and Heaps - Beginner Friendly Notes
+# Binary Trees and Heaps
 
 These notes explain Binary Trees, Complete Binary Trees, Array
 Representation, Max-Heaps, and Min-Heaps using simple language,

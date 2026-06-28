@@ -1,4 +1,4 @@
-# Heapify Algorithm - Beginner Friendly Notes
+# Heapify Algorithm
 
 These notes explain Heapify and its important concepts using simple
 language, diagrams, real-world analogies, and step-by-step examples.

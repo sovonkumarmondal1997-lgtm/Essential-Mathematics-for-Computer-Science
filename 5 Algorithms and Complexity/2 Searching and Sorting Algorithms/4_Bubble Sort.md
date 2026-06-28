@@ -1,4 +1,4 @@
-# Bubble Sort - Beginner Friendly Notes
+# Bubble Sort
 
 These notes explain Bubble Sort and its important concepts using simple
 language, real-world analogies, step-by-step examples, and

@@ -1,4 +1,4 @@
-# Heap Sort - Beginner Friendly Notes
+# Heap Sort
 
 These notes explain Heap Sort using simple language, diagrams,
 analogies, and step-by-step examples.

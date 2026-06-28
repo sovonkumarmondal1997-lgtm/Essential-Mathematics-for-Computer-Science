@@ -1,4 +1,4 @@
-# Selection Sort - Beginner Friendly Notes
+# Selection Sort
 
 These notes explain Selection Sort and its important concepts using
 simple language, real-world analogies, and step-by-step examples.
