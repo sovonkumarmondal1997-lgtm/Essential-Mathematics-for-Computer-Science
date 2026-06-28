@@ -1,4 +1,4 @@
-# NFA Design Concepts - Beginner Friendly Notes
+# NFA Design Concepts
 
 These notes explain important NFA concepts using simple language,
 real-world analogies, and multiple examples.

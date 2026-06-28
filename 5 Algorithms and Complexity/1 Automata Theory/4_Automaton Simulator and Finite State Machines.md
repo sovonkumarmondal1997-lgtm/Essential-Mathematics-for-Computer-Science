@@ -1,4 +1,4 @@
-# Automaton Simulator and Finite State Machines (FSM) - Beginner Friendly Notes
+# Automaton Simulator and Finite State Machines (FSM)
 
 ## 1. Automaton Simulator
 

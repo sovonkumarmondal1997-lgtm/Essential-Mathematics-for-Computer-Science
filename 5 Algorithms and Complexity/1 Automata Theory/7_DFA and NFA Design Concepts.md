@@ -1,4 +1,4 @@
-# DFA and NFA Design Concepts (Beginner-Friendly Notes)
+# DFA and NFA Design Concepts
 
 This document explains the requested concepts in simple language with
 examples.

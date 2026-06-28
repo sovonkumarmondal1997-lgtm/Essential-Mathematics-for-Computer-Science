@@ -1,4 +1,4 @@
-# Finite Automata (FA) - Simple Notes
+# Finite Automata (FA)
 
 ## 1. Finite Automaton (FA)
 

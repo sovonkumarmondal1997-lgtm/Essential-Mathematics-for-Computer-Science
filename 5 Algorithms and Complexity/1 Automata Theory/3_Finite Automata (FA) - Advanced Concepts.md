@@ -1,4 +1,4 @@
-# Finite Automata (FA) - Advanced Concepts in Simple Terms
+# Finite Automata (FA) - Advanced Concepts 
 
 ## 1. Graph Representation
 

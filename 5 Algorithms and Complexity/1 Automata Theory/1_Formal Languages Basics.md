@@ -1,4 +1,4 @@
-# Formal Languages Basics (Simple Explanation)
+# Formal Languages Basics
 
 ## 1. Alphabet (`\Sigma`{=tex})
 
