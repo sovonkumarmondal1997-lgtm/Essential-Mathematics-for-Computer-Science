@@ -1,4 +1,4 @@
-# Flawed Induction Frameworks and Logic Principles - Beginner Friendly Notes
+# Flawed Induction Frameworks and Logic Principles
 
 # 1. Flawed Induction Frameworks
 

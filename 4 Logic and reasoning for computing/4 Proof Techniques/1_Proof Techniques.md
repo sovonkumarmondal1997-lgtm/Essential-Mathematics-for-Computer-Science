@@ -1,4 +1,4 @@
-# Proof Techniques - Beginner Friendly Notes
+# Proof Techniques
 
 # 1. What is a Proof?
 

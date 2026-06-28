@@ -1,4 +1,4 @@
-# Mathematical Induction - Beginner Friendly Notes
+# Mathematical Induction
 
 # 1. Mathematical Induction
 

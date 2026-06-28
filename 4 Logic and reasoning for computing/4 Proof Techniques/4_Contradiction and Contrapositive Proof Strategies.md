@@ -1,4 +1,4 @@
-# Contradiction and Contrapositive Proof Strategies - Beginner Friendly Notes
+# Contradiction and Contrapositive Proof Strategies
 
 # 1. Contradiction Proof Strategy
 

@@ -1,4 +1,4 @@
-# Proof by Contradiction and Classical Proofs - Beginner Friendly Notes
+# Proof by Contradiction and Classical Proofs
 
 # 1. Proof by Contradiction (Indirect Proof)
 

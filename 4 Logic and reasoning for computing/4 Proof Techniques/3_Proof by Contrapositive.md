@@ -1,4 +1,4 @@
-# Proof by Contrapositive - Beginner Friendly Notes
+# Proof by Contrapositive
 
 # 1. Proof by Contrapositive
 

@@ -1,4 +1,4 @@
-# Mathematical Induction Applications - Beginner Friendly Notes
+# Mathematical Induction Applications
 
 # 1. Sum of Geometric Powers of Two
 
