@@ -1,4 +1,4 @@
-# Quick Sort and Partition Algorithm - Beginner Friendly Notes
+# Quick Sort and Partition Algorithm
 
 These notes explain the Partition Algorithm and Quick Sort using simple
 language, diagrams, real-world analogies, and step-by-step examples.

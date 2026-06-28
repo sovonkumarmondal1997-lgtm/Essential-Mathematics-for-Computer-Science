@@ -1,4 +1,4 @@
-# Iterative and Recursive Algorithms - Beginner Friendly Notes
+# Iterative and Recursive Algorithms
 
 These notes explain iterative algorithms, recursive algorithms, and
 common looping techniques using simple language, diagrams, real-world

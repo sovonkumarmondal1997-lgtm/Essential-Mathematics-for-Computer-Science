@@ -1,4 +1,4 @@
-# Recursion and Euclid's Algorithm - Beginner Friendly Notes
+# Recursion and Euclid's Algorithm
 
 These notes explain recursion, the Greatest Common Divisor (GCD), and
 Euclid's Algorithm using simple language, diagrams, real-world

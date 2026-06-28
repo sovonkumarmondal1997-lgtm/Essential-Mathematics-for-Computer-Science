@@ -1,4 +1,4 @@
-# Merge Sort - Beginner Friendly Notes
+# Merge Sort
 
 These notes explain Merge Sort and its supporting concepts using simple
 language, diagrams, analogies, and step-by-step examples.

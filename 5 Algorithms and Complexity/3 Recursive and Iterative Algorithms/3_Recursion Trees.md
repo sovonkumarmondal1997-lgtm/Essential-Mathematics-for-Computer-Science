@@ -1,4 +1,4 @@
-# Recursion Trees - Beginner Friendly Notes
+# Recursion Trees
 
 These notes explain recursion trees and important recursive concepts
 using simple language, diagrams, analogies, and step-by-step examples.

@@ -1,4 +1,4 @@
-# Stable Matching and Gale-Shapley Algorithm - Beginner Friendly Notes
+# Stable Matching and Gale-Shapley Algorithm
 
 These notes explain the Stable Matching Problem and the Gale-Shapley
 algorithm using simple language, analogies, and step-by-step examples.
